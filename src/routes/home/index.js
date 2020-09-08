@@ -26,7 +26,7 @@ const Home = () => {
 					<div class={style.details}>
 						Clarke's Third Law: Any sufficiently advanced technology is indistinguishable from magic
 					</div>
-					<div class={style.author}>- The Local Newspaper</div>
+					<div class={style.author}>- Arthur C. Clarke</div>
 				</div>
 			</div>
 			<div class={style.bio}>
