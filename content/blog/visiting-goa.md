@@ -1,11 +1,10 @@
 ---
 title: How to Build a Second Brain
 date: 2019-09-07T05:43:53.681Z
+subtitle: Explore the concept of building a second brain.
 cover: /assets/building-a-second-brain.png
 tags: travel, india, goa
 ---
-<!--StartFragment-->
-
 In March 2019, I shared the concept of *[Building a Second Brain](https://go.aliabdaal.com/secondbrain)* in [this newsletter](http://email.aliabdaal.com/issues/building-a-second-brain-167030). I'd just discovered the field of *Personal Knowledge Management* and I was excited to dive into it.
 
 I'd linked [this article by Tiago Forte](https://go.aliabdaal.com/basboverview) that sold me on the concept. Here’s how he describes it.
@@ -35,5 +34,3 @@ One of my biggest regrets in life is that I didn't take more notes from books I'
 So if there's one takeaway from this email, it's this - start building your own second brain, your own digital note-taking system, to distill, organise and share the insights you come across. It'll change your life :)
 
 Have a great week!
-
-<!--EndFragment-->
