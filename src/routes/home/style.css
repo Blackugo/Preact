@@ -3,12 +3,9 @@
   width: 100%;
 }
 
-.about {
-  display: flex;
-}
 
 .imageContainer {
-  flex: 1;
+  padding: max;
 }
 
 .image {
